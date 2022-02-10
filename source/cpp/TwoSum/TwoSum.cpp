@@ -3,7 +3,7 @@
 * Two Sum
 * Source: https://leetcode.com/problems/two-sum/
 * @author Sam Huang
-* @version 09/15/2021
+* @version Sep 15, 2021
 *
 *
 * Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
